@@ -1,5 +1,4 @@
 import logo from '../images/logo.png'
-import styles from '../style.css'
 
 export default function Navbar(){
     return (
@@ -9,4 +8,4 @@ export default function Navbar(){
             <h3> React Course - Project 1</h3>
         </div>
     )
-}
+} 
